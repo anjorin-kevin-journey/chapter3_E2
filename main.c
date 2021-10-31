@@ -17,5 +17,6 @@ int main() {
            "\t\tPrice\t\tDate\n"
            " %-d\t\t$%6.2f\t\t%-d/%-d/%-d\n",item_number,unit_price,mm,dd,yyyy);
 
+
     return 0;
 }
